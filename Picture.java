@@ -8,6 +8,7 @@
  * 
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
+ * Cloned by Franco Acosta on 09/08/2025
  */
 public class Picture
 {
